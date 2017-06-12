@@ -1,0 +1,85 @@
+
+/*Hadn't done this in a while*/
+/*This is a css for the hardware website.*/
+h1
+{
+	font-family: "Century Gothic", "Verdana", Arial, Sans-Serif;
+	font-size: 35pt;
+	font-weight: bold;
+	text-align: centre;
+	padding-top:200px;
+	padding-right:50px;
+	padding-left:200px;
+	padding-bottom: 10px;
+	color: white;
+}
+h2
+{
+	font-family: "Century Gothic", "Verdana",Arial, sans-serif,fantasy;
+	color: white;
+	font-weight: 570;
+	font-size: 32pt;
+	text-align: right;
+	font-style: normal;
+	text-align: centre;
+	margin-right: auto;
+	margin-left: auto;
+	width: 10em;
+}
+IMG.imagedisplay
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.own1
+{
+	text-align: centre;
+}
+.own1 ul
+{
+        display: inline-block;
+        margin: 0;
+		font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
+        font-size:18pt;
+        font-weight:400;
+        font-style:normal;
+        color:white;
+        line-height:2.0;
+        text-align:center;
+        text-decoration: underline;
+}
+p
+{
+	color: white;
+	font-size: 18pt;
+    font-weight:400;
+    font-style:normal;
+    line-height:40pt;
+    text-align:justify;
+    margin-left: auto;
+    margin-right: auto;
+    width:27em;
+	font-family: "Century Gothic", "Verdana", Arial, sans-serif, fantasy;
+}
+.para_cl
+{
+    color: white;
+	font-size: 18pt;
+    font-weight:600;
+    font-style:normal;
+    line-height:40pt;
+    text-align:justify;
+    margin-left: auto;
+    margin-right: auto;
+    width:27em;
+}
+body
+{
+	background-image: url(hardware.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+	background-size: 100%;
+}
+

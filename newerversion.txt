@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en-CA">
+	<head>
+		<meta charset="UTF-8">
+		<link rel= "stylesheet" type="text/css" href="index.css">
+		<title> Inside the Computer  </title>
+	</head>
+	<body class="wrap">
+	<div class="bad">
+		<h1> The Inside </h1>
+		
+		<h2> System Unit Overview (Before) </h2>
+		<p>
+			We examined a Dell Workstation System Unit. This is what it looked like before we extracted the components:
+ 
+		</p>
+		<h2> Components <h2>
+		<h3>Power Supply <h3>
+		<p>
+		   The power supply unit is the largest component in the system unit, by volume and mass. It is 
+		   in the shape of a rectangular prism and slides into a compartment along the side of the unit.
+		   It also has a large, circular fan. It provides electricity for the whole system, converting 
+		   the input current into either 5v or 12v, depending on what the computer needs. The 5v supply
+		   powers the circuit board and the 12v powers motor-driven components, like the HDD.
+		<p>
+		<h3> Central Processing Unit (CPU) <h3>
+		<p>
+		   The CPU is essentially the brain of the computer. It is small and square shaped with a large,
+		   circular fan of its own. It needs its own fan because it processes millions of bytes of data
+		   per second. The job of the CPU is to process data and turn it into information by performing
+		   simple arithmetic and logical operations. It also gives instructions to the hardware components
+		   on how to act. 
+		<p>
+		<h3> Motherboard <h3>
+		<p>
+		   The motherboard is a flat, green circuit board upon which many components of the system are found.
+		   It holds the CPU, RAM, ROM, expansion slots, power connectors, and any other chips / cards. 
+		   The board allows communication between these different parts and connects them to the power supply. 
+		<p>
+		<h3> Random Access Memory (RAM) Stick <h3>
+		<p>		    
+		   The RAM stick is a thin, long, green chip that connects to the motherboard in its own slot. RAM is a way
+		   of storing information temporarily (also known as volatile memory). Any time the the computer is shut down,
+		   the RAM is cleared and all information within it is lost. It is called random access memory because when 
+		   data is needed, it goes straight to the file and can access data in “random” orders. Many different units 
+		   within the system such as the PC use RAM for storing data from running programs. 
+		<p>
+		<h3> Read-Only Memory (ROM) Chip <h3>
+		<p>
+		   The ROM chip is a thin, black, rectangular chip that right onto the motherboard. ROM is a way of storing 
+		   information permanently. However, this information is pre-written (already programmed) onto the chip when
+		   the computer was built and ROM cannot be altered once it is programmed. It can only be read, hence the name.
+		   As well, the computer can only extract data from it in sequential order, unlike random access memory. 
+		   One major importance of the ROM chip is that it contains the procedures needed for the system unit to start
+		   up and shut down. 
+		<p>
+		<h3> Hard Disk Drive (HDD) <h3>
+		<p>
+		   The hard disk drive is a data storage device, it stores the operating system, software titles and most other 
+		   files. The Hard Disk Drive is usually the size of a paperback book, but the weight is much heavier. The HDD 
+		   is connected your PC into the Hard Disk Drive through the plug connectors to the circuit board. The flexible
+		   connector carries data data from circuit board to the read & write head. The read-write head on the read-write 
+		   arm stores data and pick up data to send to the PC. The actuator moves the read-write arm around. The magnetic 
+		   platter(the circle in the middle of the Hard Disk Drive) stores the data in binary form. 
+		<p>
+		<h3> Expansion Slots <h3>
+		<p>
+		   The expansions slots are located on the motherboard and look like thin, long compartments that cards can fit into. 
+		   Expansion slots are used to add devices to the system, connecting the device(s) to the CPU and the power supply. 
+		   They allow the computer to grow, providing additional functions through cards like video cards and sound cards. 
+		<p>
+		
+		<p> This page is <a href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fdebhatia.github.io%2Findex.html"> Validated</a> </p>
+	</div>
+	</body>
+</html>

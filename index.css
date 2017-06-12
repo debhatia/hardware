@@ -1,0 +1,68 @@
+
+/*Hadn't done this in a while*/
+/*This is a css for the hardware website.*/
+
+h1
+{
+	font-family: "Century Gothic", "Verdana", Arial, Sans-Serif;
+	font-size: 35pt;
+	font-weight: bold;
+	margin-left:40%;
+	color: white;
+}
+h2
+{
+	font-family: "Century Gothic", "Verdana",Arial, sans-serif,fantasy;
+	color: white;
+	font-weight: 570;
+	font-size: 38pt;
+	text-align: right;
+	font-style: normal;
+	margin-left:auto;
+	margin-right:auto;
+	width: 10em;
+}
+.subtitle
+{
+	font-family: "Century Gothic", "Verdana",Arial, sans-serif,fantasy;
+	font-family:arial,verdana,sans-serif;
+	font-size: 28pt;
+	text-align: center;
+	color: white;
+}
+body
+{
+	background-image: url(hardware.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+	background-size: 100%;
+}
+
+p
+{
+	font-family:arial,verdana,sans-serif;
+	font-size: 16pt;
+	color: white;
+	padding: 10px;
+	border: 5px solid #0000cc;
+	background-color: #0066ff;
+margin:auto;
+	width:40em;
+}
+
+
+.bad
+}
+	background-color:rgba(80, 255, 255, 0.5);
+	
+}
+.photo
+{
+
+	display: block;
+	margin-top:10ex;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
